@@ -1,4 +1,4 @@
-# text-based-emotion-classification
+# Text-Based Emotion Classification
 
 To check out the project report, please click [here](https://github.com/AriaWangXH/text-based-emotion-classification/blob/main/project_report.pdf).
 
